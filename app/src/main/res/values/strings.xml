@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">calculator mvvm</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="save">Simpan</string>
+    <string name="calculate_volume">Hitung Volume</string>
+    <string name="calculate_circumference">Hitung lingkar</string>
+    <string name="calculate_surface_area">Hitung keliling</string>
+    <string name="result">Hasil</string>
+</resources>
